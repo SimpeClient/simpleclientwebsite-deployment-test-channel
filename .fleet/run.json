@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "type": "npm",
+            "packageFile": "C:/users/Georg/Desktop/Development/simpleclientwebsite/package.json",
+            "name": "start",
+            "command": "run",
+            "scripts": "dev",
+            "workingDir": "C:/Users/Georg/Desktop/Development/simpleclientwebsite/",
+        },        
+    ]
+}
